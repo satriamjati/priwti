@@ -47,12 +47,18 @@ PRIWTI keep you safe from being monitored on internet café or any public servic
 2. Extract zip to your chosen folder for PRIWTI 
 1. Open `Chrome` or any `Chromium-based browser`, like `Brave`
 2. Go to `Extensions` > `Manage Extensions`
-3. Choose `Load Unpacked` > select the chosen folder for PRIWTI > `Select Folder`
-4. Open `Details` or `Manage Extensions` of PRIWTI > `Allow in private` (for Incognito or Private Browsing Window)
+3. Turn on `Developer mode` toggle
+4. Choose `Load Unpacked` > select the chosen folder for PRIWTI > `Select Folder`
+5. Open `Details` or `Manage Extensions` of PRIWTI > `Allow in private` (for Incognito or Private Browsing Window)
 7. Open `PRIWTI Settings` to change `Custom Title` for desired title and make sure check on `Enable` 
 8. Ready for private browsing
 
-*Tested on Brave v1.76.74 Chromium: 134.0.6998.89 (18 March 2025)*
+*Installation based on Chrome and Brave, other browsers may be difference*
+
+*Tested on:*
+*Brave Version 1.76.74 Chromium: 134.0.6998.89 (Official Build) (64-bit) - 18 March 2025*
+*Chrome Version 134.0.6998.89 (Official Build) (64-bit) - 18 March 2025*
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
