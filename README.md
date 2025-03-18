@@ -53,10 +53,10 @@ PRIWTI keep you safe from being monitored on internet café or any public servic
 7. Open `PRIWTI Settings` to change `Custom Title` for desired title and make sure check on `Enable` 
 8. Ready for private browsing
 
-*Installation based on Chrome and Brave, other browsers may be difference*
+*Installation based on Brave and Chrome, other browsers may be difference*
 
-*Tested on:*
-*Brave Version 1.76.74 Chromium: 134.0.6998.89 (Official Build) (64-bit) - 18 March 2025*
+*Tested on:* <br>
+*Brave Version 1.76.74 Chromium: 134.0.6998.89 (Official Build) (64-bit) - 18 March 2025*<br>
 *Chrome Version 134.0.6998.89 (Official Build) (64-bit) - 18 March 2025*
 
 
